@@ -4,7 +4,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Server\\": "src/Server"
+			"Server\\": "Server"
 		}
 	},
 	"authors": [{
@@ -12,9 +12,9 @@
 		"email": "lindaolan@126.com",
 		"homepage": "https://github.com/lindaolan"
 	}],
-	"name": "lindaolan/swooleperson",
+	"name": "lindaolan/lanframework",
 	"type": "library",
-	"keywords": ["server", "swoole", "lindaolan"],
+	"keywords": ["server", "framework", "lindaolan"],
 	"description": "In order to develop the api server",
 	"license": "MIT"
 }
